@@ -1,9 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
 
+body {
+  background-color: beige;
+}
+
 .App {
   font-family: "Open Sans", sans-serif;
   text-align: center;
-  background-color: beige;
 }
 
 .App input {
