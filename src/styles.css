@@ -3,6 +3,7 @@
 .App {
   font-family: "Open Sans", sans-serif;
   text-align: center;
+  background-color: beige;
 }
 
 .App input {
